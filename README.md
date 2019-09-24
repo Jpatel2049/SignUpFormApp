@@ -5,4 +5,4 @@ An Android application that collects a user's name, email, password, and passwor
 
 ## Screenshot:
 
-![App Screenshot](https://raw.githubusercontent.com/Jpatel2049/SignUpForm/master/SignUpFormScreenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/Jpatel2049/SignUpFormApp/master/SignUpFormScreenshot.png)
