@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.*;
 
-public class MainActivity extends AppCompatActivity {
+public class FormActivity extends AppCompatActivity {
 
     private EditText email, password, password_confirm, name;
     private Button save;
